@@ -18,7 +18,7 @@ role: ''
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a freelance software engineer with 10+ years of experience in scientific/medical/industrial software development and data analysis. 
+bio: I am a freelance information engineer. 
 
 #interests:
 #- Artificial Intelligence
@@ -69,17 +69,20 @@ social:
 #email: ""
 ---
 
-I am a freelance software and data engineer. 
+I am a freelance __information engineer__.
 
-I have 10+ years of experience in designing software products for:
+I have 10+ years of experience in designing and developing products for:
 - Image processing
 - Signal processing and filtering
-- Data analysis
+- Data collection and analysis
 - Medical devices
 - Industrial systems
 
+To 
+- C/C++ {{< icon name="cv" pack="ai" >}}
+
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
